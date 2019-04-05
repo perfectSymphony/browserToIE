@@ -1,0 +1,1 @@
+REGEDIT /S openIE.reg
